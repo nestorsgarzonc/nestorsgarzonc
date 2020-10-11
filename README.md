@@ -6,9 +6,11 @@ I'm a student of system and computer engineering at UNAL, my favorite languages 
 - 🌱 I’m currently learning Deep learning with Tensorflow, Express and React
 - 👯 I’m looking to collaborate on projects about mobile development, machine learning and deep learning
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nestorsgarzonc&layout=compact&hide=php&count_private=true)](https://github.com/nestorsgarzonc?tab=repositories)
+
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nestorsgarzonc&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nestorsgarzonc&layout=compact&hide=php&count_private=true)](https://github.com/nestorsgarzonc?tab=repositories)
 
 <!--
 **nestorsgarzonc/nestorsgarzonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
