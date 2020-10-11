@@ -1,13 +1,24 @@
-### Hi there 👋
+## Hi there 👋 I'm Sebastian Garzon
+
+I'm a student of system and computer engineering at UNAL, my favorite languages are Python and Dart
+
+- 🔭 I’m currently working on Puntopay
+- 🌱 I’m currently learning Deep learning with Tensorflow, Express and React
+- 👯 I’m looking to collaborate on projects about mobile development, machine learning and deep learning
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nestorsgarzonc&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nestorsgarzonc&layout=compact&hide=php&count_private=true)](https://github.com/nestorsgarzonc?tab=repositories)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nestorsgarzonc)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nestorsgarzonc/nestorsgarzonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
