@@ -10,8 +10,6 @@ I'm a student of system and computer engineering at UNAL, my favorite languages 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nestorsgarzonc&layout=compact&hide=php&count_private=true)](https://github.com/nestorsgarzonc?tab=repositories)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nestorsgarzonc)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **nestorsgarzonc/nestorsgarzonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
