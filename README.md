@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sebastian Garzon
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nestorsgarzonc&show_icons=true&theme=midnight-purple)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nestorsgarzonc&show_icons=true&theme=react)
 
 I'm a student of system and computer engineering at UNAL, my favorite languages are Python and Dart
 
