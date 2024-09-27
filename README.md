@@ -2,11 +2,10 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nestorsgarzonc&show_icons=true&theme=react)
 
-I'm a student of system and computer engineering at UNAL, my favorite languages are Python and Dart
+Software engineer.
 
-- 🔭 I’m currently working on Puntopay
-- 🌱 I’m currently learning Deep learning with Tensorflow, Express and React
-- 🔥 I’m looking to collaborate on projects about mobile development, machine learning and deep learning
+- 🔭 I’m currently working on Instaleap
+- 🔥 I’m looking to collaborate on projects about mobile development and machine learning
 
 
 
