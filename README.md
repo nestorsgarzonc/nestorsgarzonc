@@ -1,28 +1,13 @@
-### Hi there 👋 I'm Sebastian Garzon
+Hi there! 👋 I'm Sebastián Garzón
+I'm a passionate software developer from Colombia 🇨🇴.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nestorsgarzonc&show_icons=true&theme=react)
+A little about me:
+I'm a Senior Flutter Developer and Software Engineer currently working with Instaleap. 🚀
 
-Software engineer.
+🔭 Current Focus: Developing innovative mobile solutions at Instaleap.
+🔥 Open to Collaborations: I'm looking to collaborate on exciting projects in mobile development and machine learning.
 
-- 🔭 I’m currently working on Instaleap
-- 🔥 I’m looking to collaborate on projects about mobile development and machine learning
+Connect with me:
+LinkedIn: [Sebastián Garzón](https://www.linkedin.com/in/sebastiangarzonc/)
 
-
-
-
-
-
-
-<!--
-**nestorsgarzonc/nestorsgarzonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nestor Sebastian Garzon Contreras.
